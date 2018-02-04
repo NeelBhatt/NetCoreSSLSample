@@ -1,0 +1,11 @@
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\bin\Debug\netcoreapp2.0\NeelSSLSample.deps.json
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\bin\Debug\netcoreapp2.0\NeelSSLSample.runtimeconfig.json
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\bin\Debug\netcoreapp2.0\NeelSSLSample.runtimeconfig.dev.json
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\bin\Debug\netcoreapp2.0\NeelSSLSample.dll
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\bin\Debug\netcoreapp2.0\NeelSSLSample.pdb
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\obj\Debug\netcoreapp2.0\NeelSSLSample.csproj.CoreCompileInputs.cache
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\obj\Debug\netcoreapp2.0\NeelSSLSample.AssemblyInfoInputs.cache
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\obj\Debug\netcoreapp2.0\NeelSSLSample.AssemblyInfo.cs
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\obj\Debug\netcoreapp2.0\NeelSSLSample.dll
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\obj\Debug\netcoreapp2.0\NeelSSLSample.pdb
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSSLSample\NeelSSLSample\obj\Debug\netcoreapp2.0\NeelSSLSample.csprojResolveAssemblyReference.cache
